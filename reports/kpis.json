@@ -1,0 +1,21 @@
+{
+  "avg_health_score": 50.8,
+  "at_risk_count": 68,
+  "at_risk_pct": 13.6,
+  "top_health_factor": "steps_per_day",
+  "good_sleep_score": 52.7,
+  "poor_sleep_score": 49.5,
+  "sleep_impact": 3.1,
+  "smoker_score": 47.0,
+  "nonsmoker_score": 52.1,
+  "smoking_impact": 5.1,
+  "high_stress_score": 44.4,
+  "low_stress_score": 57.6,
+  "stress_impact": 13.2,
+  "high_steps_score": 58.0,
+  "low_steps_score": 42.1,
+  "steps_impact": 15.8,
+  "best_diet": "Non-Vegetarian",
+  "worst_diet": "Vegetarian",
+  "diet_impact": 1.8
+}
