@@ -10,7 +10,8 @@
 ---
 
 ## Live Demo
-**[Click here to view the live dashboard](#)** ← *(link coming after deployment)*
+**https://health-analytics-dashboard-h7fzyk2j7hpwcfcpfe3kr4.streamlit.app/
+**
 
 ---
 
