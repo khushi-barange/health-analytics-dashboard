@@ -150,7 +150,7 @@ streamlit run dashboards/app.py
 
 ---
 
-## About the Author
+## About the Author 
 
 **Khushi Barange** — Data Analyst  
 MSc Biotechnology | Google Data Analytics Certified | Google Cloud Gen AI Certified | Microsoft Power BI certified
