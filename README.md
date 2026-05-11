@@ -84,7 +84,7 @@ development — all without a computer science background.
 
 ## Project Structure
 
-health-analytics-dashboard/
+''' health-analytics-dashboard/
 │
 ├── data/
 │   ├── health_data.csv          # Generated dataset (500 rows, 12 columns)
@@ -107,7 +107,7 @@ health-analytics-dashboard/
 │   └── correlation_analysis.png # Chart 2
 │
 ├── requirements.txt
-└── README.md
+└── README.md '''
 
 ---
 
