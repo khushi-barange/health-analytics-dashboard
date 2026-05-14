@@ -81,6 +81,7 @@ development — all without a computer science background.
 | Git + GitHub | Version control |
 
 ---
+'''
 
 ## Project Structure
 
@@ -109,6 +110,7 @@ health-analytics-dashboard/
 ├── requirements.txt
 └── README.md
 
+'''
 ---
 
 ## How to Run Locally
