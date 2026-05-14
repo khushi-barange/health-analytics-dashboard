@@ -80,7 +80,7 @@ development — all without a computer science background.
 | Streamlit | Interactive web dashboard |
 | Git + GitHub | Version control |
 
----
+
 '''
 
 ## Project Structure
@@ -111,7 +111,6 @@ health-analytics-dashboard/
 └── README.md
 
 '''
----
 
 ## How to Run Locally
 ```bash
